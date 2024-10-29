@@ -1,5 +1,5 @@
 //Exercicio_001.
-//Desenvolvido pela dupla Diovanna e Leticia Verdelho.
+//Desenvolvido pela dupla Diovanna e Leticia Verdelho, Gustavo Pinheiro.
 //O Programa realiza o calculo do valor que você deseja sacar e exiba a quantidade de notas necesarias para chegar nesse valor.
 import java.util.Scanner;
 
